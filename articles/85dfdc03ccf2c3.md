@@ -1,5 +1,5 @@
 ---
-title: "Go言語で学ぶUTF-8"
+title: "Golangで学ぶUTF-8"
 emoji: "🐁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Go"]
