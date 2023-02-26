@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/chillout2san/zenn_content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.137"
+    "zenn-cli": "^0.1.139"
   }
 }
